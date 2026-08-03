@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785733385438-gjtebukkd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785733387463-0pp5idu",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785733385423-z7nol7j",
+      "timestamp": 1785733385423,
+      "rawDisplayText": "我把这一部分初始化为我的知识库，里面记录着我的日记和所谓的传。我希望这里记录的其实是我对于同伴的看法、人际关系，以及重大事件的记录。\n\n所以我希望你能：\n1. 生成一个时间轴的文件。\n2. 把很多 docx 文件里的内容提取出来，变成 MD 文件，然后放在这个文件夹里。第三是做一个关系表。",
+      "canonicalText": "我把这一部分初始化为我的知识库，里面记录着我的日记和所谓的传。我希望这里记录的其实是我对于同伴的看法、人际关系，以及重大事件的记录。\n\n所以我希望你能：\n1. 生成一个时间轴的文件。\n2. 把很多 docx 文件里的内容提取出来，变成 MD 文件，然后放在这个文件夹里。第三是做一个关系表。",
+      "context": {
+        "currentNote": {
+          "path": "未命名.base"
+        }
+      },
+      "images": [],
+      "contentDigest": "eb05b1c1d6ee00ce9f27a0cc27ccefd8fcc7ece84804deef41ad312f9f1caff0",
+      "providerUserMessageId": "e0a38d72-ad86-41fe-ac21-cecb480e19f4",
+      "providerAssistantMessageId": "d0104591-83a8-4c68-9c9c-129f9cba5e6a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785734208230-7knm7mn",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785734208219-y6m5rxd",
+      "timestamp": 1785734208219,
+      "rawDisplayText": "1. 随笔文件夹：我写的像《梦》和《小事件》这样的小说，都归为“随笔”文件夹。\n2. raw 文件夹：我创建了一个“raw”文件夹，用来放置未来可能添加的东西，当成便签来整理。\n\n你需要帮我把这些整合到“日记”项目里。我的日记中会有大量写之前干嘛干嘛了。所以我希望把它放在时间轴里。",
+      "canonicalText": "1. 随笔文件夹：我写的像《梦》和《小事件》这样的小说，都归为“随笔”文件夹。\n2. raw 文件夹：我创建了一个“raw”文件夹，用来放置未来可能添加的东西，当成便签来整理。\n\n你需要帮我把这些整合到“日记”项目里。我的日记中会有大量写之前干嘛干嘛了。所以我希望把它放在时间轴里。",
+      "images": [],
+      "contentDigest": "a5a7a539e0a0eeae4de511d39c34be5e0a6aa61456cafcbf634bca4f5767c73a",
+      "providerUserMessageId": "6d1b69ed-1613-4441-817f-d3b9a818f337",
+      "providerAssistantMessageId": "e1d9ead9-bd9f-4375-b344-9cacc0badfc2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785734660924-28u4y5x",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785734660823-i5z2rrf",
+      "timestamp": 1785734660823,
+      "rawDisplayText": "不用写传记记录的时间，时间只有两列：一个是时间，一个是具体事件。",
+      "canonicalText": "不用写传记记录的时间，时间只有两列：一个是时间，一个是具体事件。",
+      "images": [],
+      "contentDigest": "13c06c631da5657a2da89fe07744853eef0389a7efbfdbff25e38752f99ca81a",
+      "providerUserMessageId": "396aa90d-1c27-42f8-aab0-27f0fb535b65",
+      "providerAssistantMessageId": "02189c8b-48a7-4436-bdd4-701b5d872c52"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785735439582-k7i4vko",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785735439578-2mjcyqb",
+      "timestamp": 1785735439578,
+      "rawDisplayText": "Word 我都已经放到了另外一个文件夹里，你可以把这里的 docx 文件删了，但是我的每一个文件都需要你保存当年写的日期。",
+      "canonicalText": "Word 我都已经放到了另外一个文件夹里，你可以把这里的 docx 文件删了，但是我的每一个文件都需要你保存当年写的日期。",
+      "images": [],
+      "contentDigest": "a8023e9e9cc381cd65185602fdb5af3caed6b095574135db9140b0eb6c652fb0",
+      "providerUserMessageId": "f21f1236-2ff7-4f56-89e0-1dc5e9cc2ea5",
+      "providerAssistantMessageId": "ee1414f9-9819-4954-8958-35424e331a31"
+    }
+  ]
+}
