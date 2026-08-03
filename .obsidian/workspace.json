@@ -25,14 +25,13 @@
             "id": "2ccf7a26591ab60a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "时间轴.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "时间轴"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ],
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时间轴.md",
+                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时间轴.md",
+                "file": "未命名.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时间轴.md",
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -236,17 +235,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ccf7a26591ab60a",
+  "active": "d235d8b2cff64b72",
   "lastOpenFiles": [
-    "人物关系表.md",
     "未命名.md",
+    "未命名.base",
+    "时间轴.md",
+    "人物关系表.md",
     "时间轴.md.tmp.44508.bcefb298f391",
     "时间轴.md.tmp.44508.3b723c06ed54",
     "日记/2023.03.21.md",
     "日记/2023.05.26.md",
     "传/lkx.md",
-    "未命名.base",
-    "时间轴.md",
     "随笔/小事件.md",
     "随笔/梦3.md",
     "随笔/梦2.md",
