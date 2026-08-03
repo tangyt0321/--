@@ -25,13 +25,14 @@
             "id": "2ccf7a26591ab60a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "人物关系表.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "人物关系表"
             }
           }
         ],
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
+                "file": "人物关系表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,6 +214,18 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "ef303f7affe1cc40",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "人物关系表.md"
+              },
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
           }
         ],
         "currentTab": 6
@@ -237,40 +250,41 @@
   },
   "active": "d235d8b2cff64b72",
   "lastOpenFiles": [
-    "未命名.md",
-    "未命名.base",
-    "时间轴.md",
-    "人物关系表.md",
-    "时间轴.md.tmp.44508.bcefb298f391",
-    "时间轴.md.tmp.44508.3b723c06ed54",
-    "日记/2023.03.21.md",
-    "日记/2023.05.26.md",
-    "传/lkx.md",
-    "随笔/小事件.md",
-    "随笔/梦3.md",
-    "随笔/梦2.md",
-    "随笔/梦1.md",
-    "随笔",
-    "小事件.md",
-    "_generate_final.py",
-    "琐记.md",
-    "梦3.md",
-    "梦2.md",
-    "梦1.md",
-    "思考",
-    "raw",
+    "时间轴.md.tmp.23624.f51574fa8c30",
+    "传/tm.md",
+    "待补充.md",
+    "传/xjr.md",
+    "传/wwy.md",
+    "待补充.md.tmp.23624.a6343e839f72",
     "传/wlt.md",
-    "传/dz.md",
+    "传/tyx.md",
     "传/chy.md",
-    "_generate_v2.py",
-    "_generate_v2.py.tmp.44508.ea7d6e14124c",
-    "_generate.py",
+    "时间轴.md",
+    "人物关系表.md.tmp.23624.dcabaeb285ef",
+    "人物关系表.md.tmp.23624.41770806bd04",
+    "传/wwy.md.tmp.23624.f84334ed1185",
+    "时间轴.md.tmp.23624.8c3797d6ce0c",
+    "人物关系表.md",
+    "时间轴.md.tmp.23624.7d5c58759ef4",
+    "传/zxy.md",
+    "时间轴.md.tmp.23624.b59a6dca8edb",
+    "传/jrz.md",
+    "传/jhy.md",
+    "传/dz.md",
+    "传/cmf.md",
+    "传/lkx.md",
+    "时间轴.md.tmp.23624.a4a813bd8d8a",
+    "传/yzx.md",
+    "传/zhw.md",
+    "传/lyx.md",
+    "传/zly.md",
     "日记/2025.07.18.md",
+    "日记/2026.05.24.md",
     "日记/2025.03.20.md",
-    "日记/2025.02.06.md",
-    "日记/2024.12.15.md",
-    "日记/2024.12.03.md",
-    "日记/2024.10.25.md",
-    "日记/2024.04.04.md"
+    "日记/2024.04.04.md",
+    "日记/2026.08.03.md",
+    "日记/2026.07.24.md",
+    "未命名.base",
+    "时间轴.md.tmp.44508.bcefb298f391"
   ]
 }

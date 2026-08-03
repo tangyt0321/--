@@ -1,0 +1,6 @@
+
+/* 时间轴表格：日期列不换行 */
+.cssclass-timeline table td:first-child {
+  white-space: nowrap;
+  min-width: 80px;
+}
