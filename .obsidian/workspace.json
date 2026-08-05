@@ -201,6 +201,16 @@
               "icon": "lucide-info",
               "title": "笔记属性"
             }
+          },
+          {
+            "id": "5030d6753ca6b52f",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
@@ -219,13 +229,24 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "realclaudian:Open Claudian": false
     }
   },
   "active": "d235d8b2cff64b72",
   "lastOpenFiles": [
+    "日记/2026.07.24.md",
+    "日记/2026.07.23.md",
+    "时间轴.md.tmp.97924.4b13092180b2",
     "时间轴.md",
     "人物关系表.md",
+    "日记/2026.08.03.md",
+    "时间轴.md.tmp.97924.649b2693e340",
+    "日记/2026.08.05.md",
+    "日记/2026.08.04.md",
+    "时间轴.md.tmp.97924.fc307cd9fb0e",
+    "日记/2026.04.05.md",
+    "CLAUDE.md",
     "未命名 1.base",
     "未命名 2.base",
     "未命名.base",
@@ -241,9 +262,6 @@
     "传/chy.md",
     "人物关系表.md.tmp.23624.dcabaeb285ef",
     "人物关系表.md.tmp.23624.41770806bd04",
-    "传/wwy.md.tmp.23624.f84334ed1185",
-    "时间轴.md.tmp.23624.8c3797d6ce0c",
-    "时间轴.md.tmp.23624.7d5c58759ef4",
     "传/zxy.md",
     "传/jrz.md",
     "传/jhy.md",
@@ -252,12 +270,6 @@
     "传/lkx.md",
     "传/yzx.md",
     "传/zhw.md",
-    "传/lyx.md",
-    "传/zly.md",
-    "日记/2025.07.18.md",
-    "日记/2026.05.24.md",
-    "日记/2025.03.20.md",
-    "日记/2024.04.04.md",
-    "日记/2026.08.03.md"
+    "传/lyx.md"
   ]
 }
