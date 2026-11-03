@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789871383273-eh84mdmut",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789871383485-yfwzzj7",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789871383266-ihyn9gp",
+      "timestamp": 1789871383266,
+      "rawDisplayText": "raw有4篇新的文章",
+      "canonicalText": "raw有4篇新的文章",
+      "context": {
+        "currentNote": {
+          "path": "日记/2026.08.05.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a891cdc06d1733f037e4d41563c79d3f8d1d9364dba01438e005c95da26ce28c",
+      "providerUserMessageId": "7e07280e-4e1b-4ed4-8f07-5c05a35ea096",
+      "providerAssistantMessageId": "d763d30b-809f-47e7-ab55-5853f7c2b718"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789873750596-kba0vcc",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789873750590-53ce0ab",
+      "timestamp": 1789873750590,
+      "rawDisplayText": "刘靖文、李奕炫、罗宜文（不是杜一文",
+      "canonicalText": "刘靖文、李奕炫、罗宜文（不是杜一文",
+      "images": [],
+      "contentDigest": "c03242274eea5a168e9ea1e19ac4eb64db7e5f4e42ad23fca226b6797c7bdbdb",
+      "providerUserMessageId": "4282cb95-c9b6-4439-9d89-e5ba6d91944a",
+      "providerAssistantMessageId": "4262f3b7-f651-4e8c-9643-d1cae4b1855a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789873968901-dxhy3g2",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789873968897-715qkmr",
+      "timestamp": 1789873968897,
+      "rawDisplayText": "说的是邓煜，小川是我哥的大学室友，关系非常好",
+      "canonicalText": "说的是邓煜，小川是我哥的大学室友，关系非常好",
+      "images": [],
+      "contentDigest": "bce4b43a231fc784f7f3e5ba17192be986a8d13115b92955dd3a5c7de95fff71",
+      "providerUserMessageId": "aeb67a4d-f99e-4e32-8c3c-8e37876474f1",
+      "providerAssistantMessageId": "745f6b8f-b48f-4c66-9873-0803e7303d66"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791289388785-s05nwj0",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1791289388744-2y9zk0y",
+      "timestamp": 1791289388744,
+      "rawDisplayText": "在么？",
+      "canonicalText": "在么？",
+      "images": [],
+      "contentDigest": "b9363b7c78228a402ea1153e19ac264c76e0264833eb07c92f98f32ba79151ac",
+      "providerUserMessageId": "b6061777-325f-497b-947a-b74e782186cc",
+      "providerAssistantMessageId": "7c7a208d-fee5-46eb-83ed-21ad27bc16d1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791728685318-em74a0x",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1791728685281-cqqwvyq",
+      "timestamp": 1791728685281,
+      "rawDisplayText": "加了王文源的传",
+      "canonicalText": "加了王文源的传",
+      "images": [],
+      "contentDigest": "2b28e9f234690c750ac6045e1fc88be5124f784451e4f60a9e6b50903869f4d7",
+      "providerUserMessageId": "1018fa12-89ed-4303-bdd3-f20a224fa8ee",
+      "providerAssistantMessageId": "ae17561b-2367-430c-822a-0546b0e6882f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791729039170-4n7f835",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1791729039166-q0fe9xf",
+      "timestamp": 1791729039166,
+      "rawDisplayText": "raw又加东西了，导入之后就可以把文件归类到日记或者是传中了，然后删掉源文件",
+      "canonicalText": "raw又加东西了，导入之后就可以把文件归类到日记或者是传中了，然后删掉源文件",
+      "images": [],
+      "contentDigest": "baa28813a29f27e630acc3274348ff21268526e1c5356ad04d0acc4bde0bb99a",
+      "providerUserMessageId": "d4610058-0a4d-4504-97ec-a80029665095",
+      "providerAssistantMessageId": "c66f05ad-4b1a-4dc4-996c-931f4aef0a07"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791729221865-rzquqd2",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1791729221861-j2c7xmc",
+      "timestamp": 1791729221861,
+      "rawDisplayText": "给事件加粗并标上超链接（能标的话），然后把大事件放到一个新文件夹里吧，这样时间轴文件就能短一些",
+      "canonicalText": "给事件加粗并标上超链接（能标的话），然后把大事件放到一个新文件夹里吧，这样时间轴文件就能短一些",
+      "images": [],
+      "contentDigest": "6ea28d83c4cd054c16e1872c1614de5a371a3dcc3db25f81e0f6af493d870d59",
+      "providerUserMessageId": "dcca821c-8b69-4d45-99b9-06b934577b28",
+      "providerAssistantMessageId": "c7e252ec-7674-4c50-b930-0b8d346183f2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1792022211479-7h5ja1o",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1792022211438-6tsksuq",
+      "timestamp": 1792022211438,
+      "rawDisplayText": "raw多了一篇，就是今天写的这两天的梦，整理成两篇（目前语音输入语序和人名有问题），然后之后我要记录成两篇《小事件》",
+      "canonicalText": "raw多了一篇，就是今天写的这两天的梦，整理成两篇（目前语音输入语序和人名有问题），然后之后我要记录成两篇《小事件》",
+      "images": [],
+      "contentDigest": "1a7242fcbf5de3663d6223e57da1d45b378211369410bd987a469c75d7b976b7",
+      "providerUserMessageId": "5e83f208-2dd8-4201-be9f-f0db749a6cf2",
+      "providerAssistantMessageId": "c77b80e4-8fec-45aa-b348-6e640dfa3251"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793718102402-guxyxug",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1793718102370-ai8sivq",
+      "timestamp": 1793718102370,
+      "rawDisplayText": "新的一篇",
+      "canonicalText": "新的一篇",
+      "images": [],
+      "contentDigest": "54d93baa69701949f492a6028dc2335fefa7cc2f2150043762d7cbcf147f7f5a",
+      "providerUserMessageId": "456d27cb-85b8-4dfe-bced-d1c192b9552e",
+      "providerAssistantMessageId": "79f6a60e-57da-4649-a6b7-80e6e5737f98"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793718402496-ng93ots",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1793718402482-urirhp9",
+      "timestamp": 1793718402483,
+      "rawDisplayText": "不是学姐，是王文源的高中同学，就是个交接人，无需在意",
+      "canonicalText": "不是学姐，是王文源的高中同学，就是个交接人，无需在意",
+      "images": [],
+      "contentDigest": "ac5de41132c8e6c79a7b65920c30b1123441304ff61b13941198f31030fb0274",
+      "providerUserMessageId": "304073f8-23b5-47b7-b132-8b9b6ed760b2",
+      "providerAssistantMessageId": "9d85a5e1-db97-41a3-aa9c-61ccef19f37c"
+    }
+  ]
+}

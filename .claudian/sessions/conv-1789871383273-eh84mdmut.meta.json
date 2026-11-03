@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789871383273-eh84mdmut",
+  "providerId": "claude",
+  "title": "整理 raw 目录中的 4 篇新文章",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789871383304,
+  "updatedAt": 1793718409122,
+  "lastResponseAt": 1793718409121,
+  "sessionId": "038ca934-f465-403e-8ad4-5132f43a1d4d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "038ca934-f465-403e-8ad4-5132f43a1d4d"
+  },
+  "currentNote": "日记/2026.08.05.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 193,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 205440,
+    "contextWindow": 200000,
+    "contextTokens": 205633,
+    "percentage": 100
+  }
+}
