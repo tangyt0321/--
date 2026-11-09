@@ -1,0 +1,10 @@
+# Obsidian 运行时状态：每次打开/切屏都会重写，进 git 只会制造冲突
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 回收站
+.trash/
+
+# 系统杂项
+.DS_Store
+Thumbs.db
